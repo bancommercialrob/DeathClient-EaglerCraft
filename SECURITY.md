@@ -129,6 +129,3 @@ Offers a wide range of customization options to tailor the experience to your pr
 ![Customization 2](https://github.com/user-attachments/assets/613669cc-32bd-4bfe-9857-5b2979e9ef36)
 ![Customization 3](https://github.com/user-attachments/assets/04fbfd80-fc8b-4f18-87de-a13a6c8b8a8e)
 
-## Notice
-
-See the [NOTICE](NOTICE) file for attribution and legal notices.
